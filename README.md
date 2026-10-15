@@ -12,6 +12,7 @@ Atualmente, o repositório conta com a seguinte organização por especialidade:
 * **`Responsiveness-Expert/`** — Prompts focados em adaptação multi-telas, layouts responsivos, suporte a Smart POS / Terminais Android (<= 480px), conversão automática de tabelas para cards e acessibilidade móvel.
 * **`Motion-Design-Specialist/`** — Prompts focados em microinterações, transições fluídas com `motion/react`, estados interativos (hover/active), animações não bloqueantes e suporte a movimento reduzido (`useReducedMotion`).
 * **`UI-UX-Specialist/`** — Prompts voltados para melhorias de usabilidade, hierarquia visual, clareza de formulários, fluxo operacional rápido para estacionamentos e polimento estético (Visual Polish).
+* **`Software-Quality-Specialist/`** — Prompts voltados para melhorias das funcionalidade, confiabilidade, desempenho, usabilidade/UX, segurança, manutenibilidade e portabilidade/compatibilidade.
 
 ---
 
